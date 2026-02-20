@@ -1,16 +1,8 @@
 ## Hi there 👋
 
-I'm a developer who enjoys building and experimenting with new ideas.
-
-## 🚀 Projects
-
-### 🔹 OpenFlow
-- **Description:** (Add a short description here — e.g., what it does or why you built it)
-- **Repository:** https://github.com/sammy4321/OpenFlow
+**Current Projects**
+🚀 OpenFlow — building flows that actually move data
 
 <!--
-More projects coming soon!
+More coming soon…
 -->
-
-## 📫 Get in Touch
-- GitHub: https://github.com/sammy4321
