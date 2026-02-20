@@ -1,16 +1,16 @@
 ## Hi there 👋
 
+I'm a developer who enjoys building and experimenting with new ideas.
+
+## 🚀 Projects
+
+### 🔹 OpenFlow
+- **Description:** (Add a short description here — e.g., what it does or why you built it)
+- **Repository:** https://github.com/sammy4321/OpenFlow
+
 <!--
-**sammy4321/sammy4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+More projects coming soon!
 -->
+
+## 📫 Get in Touch
+- GitHub: https://github.com/sammy4321
