@@ -2,5 +2,5 @@ Hi, I'm Samarth 👋
 
 ## 🚀 Current Projects
 
-- **[OpenFlow](https://github.com/sammy4321/OpenFlow)**  
+- **[OpenFlow](https://github.com/sammy4321/OpenFlow)** : Open source alternative to WisprFlow. 
 
