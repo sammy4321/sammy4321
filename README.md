@@ -1,8 +1,6 @@
-## Hi, I'm Samarth 👋
+Hi, I'm Samarth 👋
 
-**Current Projects**
-- OpenFlow — building flows that actually move data
+## 🚀 Current Projects
 
-<!--
-More coming soon…
--->
+- **[OpenFlow](https://github.com/sammy4321/OpenFlow)**  
+  Building flows that actually move data.
